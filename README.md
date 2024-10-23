@@ -1,5 +1,3 @@
-# MapUp-DA-Assignment-2024
-
 # MapUp - Python Assessment
 
 ## Overview
